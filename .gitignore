@@ -1,0 +1,23 @@
+'EOF'
+# Terraform working files
+.terraform/
+crash.log
+crash.*.log
+
+# State files - never commit
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan
+
+# Local variable files
+*.tfvars
+*.tfvars.json
+
+# Environment variables (real values)
+.env
+!.env.example
+
+# AWS credentials
+.aws/
+EOF
