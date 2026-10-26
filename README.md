@@ -131,7 +131,7 @@ flowchart TB
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-github-username>/terraform-aws-vpc-public-private-subnets.git
+git clone https://github.com/mohamed-talha-m-g/terraform-aws-vpc-public-private-subnets.git
 cd terraform-aws-vpc-public-private-subnets
 
 # Configure input values
@@ -230,8 +230,8 @@ terraform destroy
 **Mohamed Talha M G**
 DevOps Engineer | AWS | Terraform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-linkedin-id>)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/<your-github-username>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-talha-m-g)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/mohamed-talha-m-g)
 
 ---
 
